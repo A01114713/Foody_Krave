@@ -9,7 +9,7 @@ import android.widget.TextView
 class Pantalla_Principal : AppCompatActivity() {
     lateinit var textView : TextView
     lateinit var editText : EditText
-    lateinit var editText : EditText
+    lateinit var editText2 : EditText
     lateinit var button : Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
